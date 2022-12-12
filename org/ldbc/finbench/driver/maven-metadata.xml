@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.ldbc.finbench</groupId>
+  <artifactId>driver</artifactId>
+  <versioning>
+    <release>0.1.0-rc</release>
+    <versions>
+      <version>0.1.0-rc</version>
+    </versions>
+    <lastUpdated>20221212084503</lastUpdated>
+  </versioning>
+</metadata>
