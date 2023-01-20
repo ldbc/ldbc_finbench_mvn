@@ -3,10 +3,10 @@
   <groupId>org.ldbcouncil.finbench</groupId>
   <artifactId>driver</artifactId>
   <versioning>
-    <release>0.1.0-rc</release>
+    <release>0.1.0-alpha</release>
     <versions>
-      <version>0.1.0-rc</version>
+      <version>0.1.0-alpha</version>
     </versions>
-    <lastUpdated>20230120063051</lastUpdated>
+    <lastUpdated>20230120064803</lastUpdated>
   </versioning>
 </metadata>
